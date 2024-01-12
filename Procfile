@@ -1,0 +1,1 @@
+web: gunicorn grafana_slack:app
